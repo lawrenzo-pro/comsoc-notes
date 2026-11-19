@@ -70,3 +70,24 @@ Internet -> Upstream ISP -> Main PoP(Network Core)-> Distribution Network -> Acc
 - Ubiquity Design Centre: For wireless networks
 - Draw.io: For logical network topologies
 - Microsoft office: Word, PowerPoint
+
+## Wireless Technology
+### Wireless Technologies overview
+- Many start with wireless technologies for various reasons
+1. Affordability - less complex for the first time
+2. Unlicenced spectrum - using the ISM Band
+3. Challenging Environments - Some areas may not be ideal for fibre optic
+4. Scalability - easier to scale and grow
+### Types of Wireless Networks
+- Point to Point - Direct connection between two locations.
+- Point to Multipoint - One central that connects multiple endpoints directly
+- Mesh Network - Nodes connect dynamically, expanding coverage and resilience. If one path fails, data automatically reroutrs through other nodes.
+### Core Components
+#### Hardware
+- Routers direct data between networks and devices
+- Access points provide wireless
+- Antennas extend and focus wireless signals
+#### Cliend Devices
+- Laptops, phones..
+- Each device affect network load and performance
+#### Coverage and Interference Factors
