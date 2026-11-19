@@ -35,3 +35,14 @@ Ask->It travels via network -> Arrives at a hyperscaler region -> AI chips think
 - Deep Learning - ML using multilayered NNs
 - Generative AI - creates new content such as text, image and code powered by foundation models.
 - Agentic AI - plans and takes actions across tools and systems to reach a goal
+
+## Breakthroughs
+
+1. Chatgpt launches : 2022
+2. Model race : 2023
+3. AI that reasons :2024
+4. AI that acts :2025
+5. AI at frontier scale :2026
+
+### MCP : Model Context Protocol
+- Different agents to act and communicate together (Open standard, an api for AI), created by anthropic
