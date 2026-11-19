@@ -8,3 +8,4 @@
 - [From Dial-Up to Cloud-Native](day-one/history.md) by Humphrey Muhindi
 - [Hyperscalers and AI in the cloud](day-one/ai-cloud.md) by Major Mbandi
 - [Make Software That Heals Itself](day-one/software.md) by Mark Tanui
+- [Designing a Resilient, Affordable and Sustainable Community Network](day-one/resilient.md) by Ruth Njeri
