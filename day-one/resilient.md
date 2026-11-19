@@ -52,3 +52,21 @@
   #### What value can your network bring?
   - Your customers ie Farmers, Businesses (How can your network help them tap in the global market)
   - Local services offline, content etc
+## Infrastructure
+### Understanding The environment
+#### Factors
+- Geographical, Political and managing complec terrain and weather
+#### Forces
+- Things you can't change: Inflation, currency flactuation and backhaul costs to maintain affordabolity in volatile markets
+#### Face
+- People and institutions that have impact on community network projects
+- Community leaders,Religious Leaders, Policticians
+- Approvals; Permits
+## Designing The Network Architecture
+Internet -> Upstream ISP -> Main PoP(Network Core)-> Distribution Network -> Access Network -> End User
+
+### Tools for Design
+- Google Earth for logical mapping
+- Ubiquity Design Centre: For wireless networks
+- Draw.io: For logical network topologies
+- Microsoft office: Word, PowerPoint
