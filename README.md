@@ -1,5 +1,5 @@
 # COMSOC School Series: Kenya Edition
-### Converged Telecommunications: Frome Radio Architectures to Cloud Native Networks
+### Converged Telecommunications: From Radio Architectures to Cloud Native Networks
 
 
 ### Day One
