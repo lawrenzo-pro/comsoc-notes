@@ -23,7 +23,7 @@ Phone -> Radio site -> Backhaul -> Fibre backbone -> Data centre and cloud -> Mp
 - The Constitution (Privacy, expression, information)
 - KICA, 1998 (Licencing spectrum)
 - Data Protection act 2019 (Personal Data Rights, the data commissioner)
-- Computer Misuse and Cybercrime Act (cybercrie and digital systems, amended 2025)
+- Computer Misuse and Cybercrime Act (cybercrime and digital systems, amended 2025)
 - Technopolis Act (Konza and technopolis hubs, May 2026)
 - Access to information Act,2016 (Public access to govt information)
 - Ict Policy 2019 and Digital Master Plan (Direction to 2032)
