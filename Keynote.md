@@ -28,3 +28,29 @@ Phone -> Radio site -> Backhaul -> Fibre backbone -> Data centre and cloud -> Mp
 - Access to information Act,2016 (Public access to govt information)
 - Ict Policy 2019 and Digital Master Plan (Direction to 2032)
 - National AI strategy (Infrastructure, governance and research)
+
+## Connectivity Priorites
+- The last Mile (wards,schools, health)
+- Resilience and protection (redundancy, protection from theft)
+- Power at Sites (Solar backup, batteries and remote power monitoring)
+- Cloud , data centres and security ( Government cloud, data centres and Cybersecurity)
+
+## How services reach the last mile
+
+- Government offices
+- Public wifi
+- Ward digital hubs
+- Schools and Clinics
+- Wireless and Satelites
+- Community Networks
+
+## Automation makes thousands of sites Manageable
+
+1. Zero-touch provisioning (Equipment configures itself when plugged in)
+2. Remote monitoring (Link,power and battery telemetry from every site)
+3. Automated fault handling (Alarm,ticket and nearest technician, automatically)
+4. Configuration as code (Python and ansible)
+5. Self Service (Captive portals, ussd sign-ups)
+6. Digital Records
+
+Fewer site visits -> lower costs per site -> a viable last mile
