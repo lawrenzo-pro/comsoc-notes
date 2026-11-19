@@ -20,3 +20,14 @@
 - Scale out: Add identical copies when busy, remove them when it's quiet
 
 ### 2/4 Crash at 2am
+- Self Healing: Run several copies, something watches them
+
+### 3/4 Chain Reactions
+- Split apps into parts
+- Monolith: one big program: one failure makes the whole thing goes down)
+- Microservices: Small programs that interact with each other
+
+Downside: More parts to monitor
+
+### 4/4 "It works on my machine"
+- Containerization: put app and dependencies together
