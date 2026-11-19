@@ -1,6 +1,6 @@
 # Designing a Resilient, Affordable and Sustainable Community Network
 
-## What are community networks
+## What are community networks?
 - Telecommunications or internet infrastructure built,owned, managed and operated by a local community to provide affordable voice or internet connectivity and digital services
 
 ### Traits
