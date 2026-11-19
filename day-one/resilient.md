@@ -87,7 +87,7 @@ Internet -> Upstream ISP -> Main PoP(Network Core)-> Distribution Network -> Acc
 - Routers direct data between networks and devices
 - Access points provide wireless
 - Antennas extend and focus wireless signals
-#### Cliend Devices
+#### Client Devices
 - Laptops, phones..
 - Each device affect network load and performance
 #### Coverage and Interference Factors
