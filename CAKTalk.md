@@ -61,3 +61,6 @@
 - Interferance and Spectrum efficiency
 - Efficient use of broadcast spectrum
 - Pricing and Affordability
+
+## Direct to device satelite (D2D)
+- allows users to have access to services using satelite signals provided there's unobstructed view of sky
