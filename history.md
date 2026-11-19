@@ -42,3 +42,39 @@ Every international link was a satelite hop, so bandwidth was expensive and scar
 - Early 2002:It restarted under a new licence, the first issued to an IXP
 
 ``` Engineers and Regulators together decide how fast and how cheap a countries internet can be. ```
+
+## Mobile changes everything: Then the phone became the platform
+
+| 84.1     | 62.6 | 53.4M |
+| :-----      | :-----   | :----- 
+| active subscriptions    | mobile broad subscription     | active mobile money accounts
+
+- M-pesa launched in march 2007 as a microfinance loan service, trailed in Thika, then became a phone-phone money transfer
+
+``` The service built on the network can matter more than the network, and it needs the network every minute ```
+
+## The cables arrive, cables changed the equation
+
+Before: satelite 23rd July 2009: seacom gives kenya a link
+
+### Running a network across 14 countries
+
+### Fibre Exchanges
+
+- Kenyan - international link - abroad - kenyan user :slow and costly
+- Kenyan - Local exchange - Kenyan user :faster and cheaper
+
+- Tier 2 isps
+- Response to worse hours: monitoring, reports, security
+
+### Cloud native and what is next
+- AI and Automation - optimise, predict and orchestrate
+- Cloud and Edge - shared compute close to users
+- Transport - move bits across distance
+- Radio and Spectrum -connect devices and people
+``` Each layer replaced what is scarse.The next scarce thing is skilled people ```
+
+## Lessons learnt
+1. Demand outruns capacity: plan for what you can't see
+2. Open Interconnection wins
+3. Operations Decide who succeeds
