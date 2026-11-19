@@ -54,3 +54,21 @@ Phone -> Radio site -> Backhaul -> Fibre backbone -> Data centre and cloud -> Mp
 6. Digital Records
 
 Fewer site visits -> lower costs per site -> a viable last mile
+
+## Skills the sector needs
+
+- Fibre and field(Splicing, OTDR, as-built records)
+- Radio (RF planneing, 4G and 5G RAN)
+- IP and Automation (IP/MLS, Python,Ansible)
+- Cloud Native (5G core,containers, kubernates)
+- Cybersecurity (Secure design and operations)
+- Site Power (Solar,batteries ,telemetry)
+- Data and AI (Telemetry ML, edge AI, NLP)
+- Professional Practice (Documentation, Projects ,safety)
+
+## Place in digital economy
+1. Hands on
+2. Vendor neutral Certification
+3. Portfolio
+4. Register for accreditation
+5. Solve Practical problems
