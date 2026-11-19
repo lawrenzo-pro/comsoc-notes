@@ -91,3 +91,13 @@ Internet -> Upstream ISP -> Main PoP(Network Core)-> Distribution Network -> Acc
 - Laptops, phones..
 - Each device affect network load and performance
 #### Coverage and Interference Factors
+
+## Conclusion
+- Anyone can setup
+- Resources, knowledge and skills are provided by organisations: Internet Society, ICANN, APC
+
+## Rules when running any type of network
+#### In case of crisis...
+ - stop
+ - think
+ - adt
