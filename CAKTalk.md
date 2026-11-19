@@ -6,8 +6,8 @@
 
 ### Resource Assignment
 - Radio Spectrum, Numbering Blocks, IP routes and statutory grants
--
-### Internatonal vs domestic grants
+
+### International vs domestic grants
 - ITU international frequency allocation or vendor specification.
 
 ## Standards & Numbering and Type approval
@@ -22,3 +22,20 @@
 - To ensure efficient utilization of frequency spectrum resource, the Authority has set strategic objectives on spectrum management
 - Administrative and Technical procedures to work with spectrum management systems to facilitate:
       Planning -> Licensing -> Monitoring -> Compliance
+
+## Frequency Planning
+### Coordination of Spectrum Management
+1. ITU(The International Telecommunication Union) - UN body  that coordinates global management of Telecommunications
+2. ATU(The African Telecommunications Union) - Adoption of ITU recommendations, Regional Harmonization and Preparations
+3. EACO(East African Communications Organisation)-  Co-ordination with Neighbouring countries within the EAC
+4. CAK(Communication Authority) -Development of regulatory instruments and management of spectrum resources
+
+## ITU
+
+- ITU-T Standards
+- ITU-D Development
+
+### ITU regions
+1. Americas
+2. Africa and Europe
+3. Asia
