@@ -67,6 +67,16 @@ Fewer site visits -> lower costs per site -> a viable last mile
 - Professional Practice (Documentation, Projects ,safety)
 
 ## Place in digital economy
+
+### Where to work
+1. Operators
+2. Tower
+3. Equipment
+4. Government
+5. Startups and hubs
+
+### Advice
+
 1. Hands on
 2. Vendor neutral Certification
 3. Portfolio
