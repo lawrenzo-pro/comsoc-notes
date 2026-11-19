@@ -34,7 +34,7 @@ Africa Online and FormNet begun service in late 1995.Email was store and forward
 | :-----      | :-----   |
 | per mbps in a kenyan isp     | per mbps in india, better served by cities    |
 
-Every international link was a satelite hop, so bandwidth was expensive and scarse.
+```Every international link was a satelite hop, so bandwidth was expensive and scarse.```
 
 ## The Kenya Internet Exchange (KIXP)
 - Late 2000: Kenyan ISPs set up an exchange to keep local traffic local
@@ -47,7 +47,7 @@ Every international link was a satelite hop, so bandwidth was expensive and scar
 
 | 84.1     | 62.6 | 53.4M |
 | :-----      | :-----   | :----- 
-| active subscriptions    | mobile broad subscription     | active mobile money accounts
+| active subscriptions    | mobile broadband subscription     | active mobile money accounts
 
 - M-pesa launched in march 2007 as a microfinance loan service, trailed in Thika, then became a phone-phone money transfer
 
@@ -72,6 +72,7 @@ Before: satelite 23rd July 2009: seacom gives kenya a link
 - Cloud and Edge - shared compute close to users
 - Transport - move bits across distance
 - Radio and Spectrum -connect devices and people
+
 ``` Each layer replaced what is scarse.The next scarce thing is skilled people ```
 
 ## Lessons learnt
