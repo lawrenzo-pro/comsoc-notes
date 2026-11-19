@@ -39,3 +39,25 @@
 1. Americas
 2. Africa and Europe
 3. Asia
+
+## Frequency and Compliance
+- Verify Utilization
+- Minimise Interferance
+- Protect consumers
+
+### Monitoring Systems
+- Fixed radio monitoring systems
+- Mobile radio monitoring systems
+- Mobile and Backpack QOS
+- Broadcast Content
+### Interferance management
+
+## Issues
+- scarcity
+- 5G frequency harmonisation
+- Small private networks
+- Satelite and Non Terestrial networks
+- Satelite based IoT applications
+- Interferance and Spectrum efficiency
+- Efficient use of broadcast spectrum
+- Pricing and Affordability
