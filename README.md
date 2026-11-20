@@ -9,3 +9,4 @@
 - [Hyperscalers and AI in the cloud](day-one/ai-cloud.md) by Major Mbandi
 - [Make Software That Heals Itself](day-one/software.md) by Mark Tanui
 - [Designing a Resilient, Affordable and Sustainable Community Network](day-one/resilient.md) by [Ruth Njeri](mailto:ruth@tandacn.org)
+- [Optical Transmission](day-two/optical.md) by Felix Otero
